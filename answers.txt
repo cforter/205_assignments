@@ -1,0 +1,24 @@
+
+3.
+
+Local Running Time:
+real	2m42.037s
+user	2m35.465s
+sys	0m7.591s
+
+AWS Running Time:
+from console - 
+real	12m37.812s
+user	0m1.955s
+sys	0m0.306s
+
+from AWS -
+Running time was 265.0s (not counting time spent waiting for the EC2 instances)
+
+
+4. 
+
+Local address tags count = 2042
+AWS address tags count = 2042
+
+5. Yes, count is the same.
